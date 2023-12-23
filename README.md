@@ -13,5 +13,5 @@ android 7.x и выше
 ### скачать: [apk](https://github.com/yarchefis/minimalist-diary/releases/tag/diary)
 
 ### Изображения приложения(android 14)
-![screenshot](https://raw.githubusercontent.com/yarchefis/minimalist-diary/main/img/s1.jpg)
-![screenshot](https://raw.githubusercontent.com/yarchefis/minimalist-diary/main/img/S2.jpg)
+![screenshot](https://raw.githubusercontent.com/yarchefis/minimalist-diary/main/img/s1.png)
+![screenshot](https://raw.githubusercontent.com/yarchefis/minimalist-diary/main/img/s2.jpg)
