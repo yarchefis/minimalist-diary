@@ -1,4 +1,4 @@
-![icon](https://raw.githubusercontent.com/yarchefis/minimalist-diary/main/img/appstore.png)
+![icon](https://raw.githubusercontent.com/yarchefis/minimalist-diary/main/img/ic_launcher.png.png)
 # minimalist-diary
 Самый минимальный ежедневник на твоём телефоне.
 Почему?
