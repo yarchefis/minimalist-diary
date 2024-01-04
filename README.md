@@ -1,6 +1,6 @@
 ![icon](https://raw.githubusercontent.com/yarchefis/minimalist-diary/main/img/ic_launcher.png)
 # minimalist-diary
-Самый минимальный ежедневник на твоём телефоне.
+Самый минималистичный ежедневник на твоём телефоне.
 Почему?
 В нем нет ничего лишнего:
     добавляй,  
